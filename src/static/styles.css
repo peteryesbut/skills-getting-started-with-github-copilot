@@ -75,7 +75,7 @@ section h3 {
 }
 
 .activity-card ul {
-  list-style-type: disc;
+  list-style-type: none;
   margin-left: 20px;
   margin-top: 10px;
   padding: 10px;
